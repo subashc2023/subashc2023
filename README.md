@@ -19,6 +19,8 @@ Welcome to my GitHub profile!
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=subashc2023&theme=radical" />
 </div>
 
+[![Subash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=subashc2023&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ---
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -31,7 +33,4 @@ Welcome to my GitHub profile!
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" />
-</p>
-
-<!-- Snake animation -->
-![Snake animation](https://github.com/subashc2023/subashc2023/blob/output/github-contribution-grid-snake.svg) 
+</p> 
