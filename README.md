@@ -4,8 +4,11 @@ Welcome to my GitHub profile!
 
 ## About Me
 👨‍💻 I'm currently working at JPMorgan Chase & Co.
+
 🎓 Graduate from The University of Texas at Dallas
+
 🚀 I'm passionate about automation and Cloud technologies
+
 💡 How to reach me: [subash.co](https://subash.co)
 
 ## Connect With Me
