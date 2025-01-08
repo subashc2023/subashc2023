@@ -20,7 +20,7 @@ Welcome to my GitHub profile!
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=subashc2023&custom_title=Subash%20Chandra's%20Contribution%20Graph&theme=github-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=subashc2023&custom_title=Subash%20Chandra's%20Contribution%20Graph&theme=github-dark&hide_border=true&area=true&hide_title=true&days=30" />
 </div>
 
 ---
