@@ -8,24 +8,16 @@ Welcome to my GitHub profile!
 - 🌱 I'm passionate about automation and Cloud technologies
 - 📫 How to reach me: [subash.co](https://subash.co)
 
-## My Skills
-- Programming Languages: Python, Java
-- Cloud & Tools: 
-  - AWS (Certified Solutions Architect – Associate)
-  - Apache Kafka (Confluent Fundamentals Certified)
-  - Cloud Computing
-  - Distributed Systems
-- Certifications:
-  - AWS Certified Solutions Architect – Associate
-  - AWS Cloud Practitioner
-  - Apache Kafka - Confluent Fundamentals
-
-## GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=subashc2023&show_icons=true&theme=radical)
-
 ## Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subashchandra2023/)
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://subash.co) 
+
+![Profile Views](https://komarev.com/ghpvc/?username=subashc2023&color=brightgreen&style=for-the-badge)
+
+---
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=subashc2023&theme=radical" />
+</div>
 
 ---
 <p align="center">
@@ -39,4 +31,7 @@ Welcome to my GitHub profile!
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" />
-</p> 
+</p>
+
+<!-- Snake animation -->
+![Snake animation](https://github.com/subashc2023/subashc2023/blob/output/github-contribution-grid-snake.svg) 
