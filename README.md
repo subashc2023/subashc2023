@@ -39,3 +39,8 @@ Welcome to my GitHub profile!
 <img src="https://img.shields.io/badge/-GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/-JENKINS-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" />
 </p> 
+
+---
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</div>
