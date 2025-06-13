@@ -1,15 +1,15 @@
-# Hi there 👋, I'm Subash
+# Hi , I'm Subash
 
 Welcome to my GitHub profile!
 
 ## About Me
-👨‍💻 I'm currently working at JPMorgan Chase & Co.
+I'm currently working at JPMorgan Chase & Co.
 
-🎓 Graduate from The University of Texas at Dallas
+Graduate from The University of Texas at Dallas
 
-🚀 I'm passionate about automation and Cloud technologies
+I'm passionate about automation and Cloud technologies
 
-💡 How to reach me: [subash.co](https://subash.co)
+How to reach me: [subash.co](https://subash.co)
 
 ## Connect With Me
 [![LINKEDIN](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subashchandra2023/)
